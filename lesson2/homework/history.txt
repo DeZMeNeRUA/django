@@ -1,0 +1,148 @@
+    1  cd ..
+    2  ls
+    3  cd ubuntu/
+    4  mkdir django
+    5  cd django
+    6  mkdir lesson1
+    7  cd lesson1/
+    8  touch index.htmi
+    9  mv index.htmi index.html
+   10  cd ..
+   11  git init
+   12  git add lesson1/index.html
+   13  git commit -m "first commit"
+   14  git config --global user.email "you@example.com"
+   15  git config --global user.email "dimasavchukua4@gmail.com"
+   16  git config --global user.name "DeZMeNeR"
+   17  git commit -m "first commit"
+   18  git remote add origin https://github.com/DeZMeNeRUA/django.git
+   19  git push -u origin master
+   20  git push -u origin master
+   21  ls
+   22  lesson1/
+   23  lesson1
+   24  ls lesson1
+   25  cd: lesson1
+   26  cd django/
+   27  cd lesson1/
+   28  mkdir homework
+   29  cp index.html homework/
+   30  cd django/
+   31  cd
+   32  cd django/
+   33  mkdir lesson2/
+   34  cd lesson2
+   35  touch script.sh
+   36  ls -l
+   37  ls /home/
+   38  ls
+   39  cd /
+   40  cd django/
+   41  cd django
+   42  cd
+   43  ls
+   44  cd lesson2
+   45  ls
+   46  cd django/lesson2
+   47  chmod
+   48  chmod +x script.sh
+   49  ls
+   50  .script.sh
+   51  ./script.sh
+   52  cd ~
+   53  cp ~/django/lesson2/script.sh ~/django/lesson2/test/test.txt
+   54  cp ~/django/lesson2/test.txt ~/django/lesson2/test/test.txt
+   55  cp ~/django/lesson2/test.txt ~/django/lesson2/test/test.txt
+   56  cp ~/django/lesson2/script.sh ~/django/lesson2/test.txt
+   57  cp ~/django/lesson2/test.txt ~/django/lesson2/test/test.txt
+   58  cd ~/django/lesson2/
+   59  ls
+   60  cat test.txt 
+   61  mv test.txt script2.sh 
+   62  mv script2.sh /test/
+   63  mv script2.sh test/
+   64  cp script2.sh lesson
+   65  cp ~/django/lesson2/test/script2.sh ~/django/lesson1/homework/
+   66  pwd
+   67  whomi
+   68  whoami
+   69  cd test
+   70  mv test.txt test.sh
+   71  whoami
+   72  echo
+   73  pwd
+   74  echo Something ...
+   75  cat test.sh 
+   76  ./test.sh
+   77  chmod +x test.sh 
+   78  chmod 755
+   79  chmod script2.sh
+   80  chmod +x test.sh
+   81  ./test.sh 
+   82  ./test.sh 
+   83  echo $home
+   84  echo $HOME
+   85  ./test.sh
+   86  ./test.sh
+   87  if pvd; h; cd
+   88  git status
+   89  cd django/
+   90  cd django
+   91  cd
+   92  cd django/
+   93  git status
+   94  git add lesson2/
+   95  git status
+   96  git commit -m "lesson2"
+   97  git push -u origin master
+   98  git push -u origin master
+   99  git merge
+  100  git push -u origin master
+  101  git push -u origin master
+  102  git pull
+  103  git push -u origin master
+  104  git push -u origin master
+  105  cd
+  106  cd
+  107  cd
+  108  cd
+  109  cd django/lesson2/
+  110  mkdir homework/task3.sh
+  111  cd homework/
+  112  cd homework
+  113  mkdir homework
+  114  cd homework/
+  115  cdmod +x task3.sh
+  116  chmod +x task3.sh
+  117  cd django/lesson2
+  118  cd
+  119  cd django/lesson2
+  120  cd script.sh homework/task3.sh
+  121  cd homework/
+  122  chmod +x task3.sh
+  123  cd
+  124  cd django/lesson2/
+  125  cp script.sh homework/task3.sh
+  126  cd homework/
+  127  chmod +x task3.sh 
+  128  ./task3.sh 
+  129  chmod +x task3.sh 
+  130  ./task3.sh 
+  131  mkdir project
+  132  cp task3.sh project/task4.sh
+  133  cd project/
+  134  chmod +x task4.sh
+  135  ./task4.sh
+  136  chmod +x task4.sh
+  137  ./task4.sh
+  138  cd
+  139  cd django/lesson2/homework/
+  140  cd ~/Documents/django/lesson2/homework/
+  141  cd
+  142  cd django/lesson2/homework/
+  143  mkdir history
+  144  cd ~/documents/django/lesson2/homework/
+  145  mkdir history.txt
+  146  touch history.txt
+  147  touch history.txt
+  148  history >> history.txt
